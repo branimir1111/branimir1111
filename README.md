@@ -4,12 +4,9 @@
 
 ### How to reach me
 
-<!-- > **🌐 Social Network**
+> **🌐 Social Network**
 
-[<img src='./images/linked-in-logo.svg' style='width:40px'/>](https://www.linkedin.com/in/branimirdjordjevic82/)
-[<img src='./images/facebook-logo.svg' style='width:40px'/>](https://www.facebook.com/profile.php?id=100013754237181)
-[<img src='./images/X-logo.svg' style='width:40px'/>](https://twitter.com/branimir1111)
-[<img src='./images/instagram-logo.svg' style='width:40px'/>](https://www.instagram.com/branimir_art/) -->
+<a href="https://www.linkedin.com/in/branimirdjordjevic82/" target="_blank"><img src='./images/linkedin-logo.svg' style='width:40px'/></a> <a href="https://www.facebook.com/profile.php?id=100013754237181" target="_blank"><img src='./images/facebook-logo.svg' style='width:40px'/></a> <a href="https://twitter.com/branimir1111" target="_blank"><img src='./images/X-logo.svg' style='width:40px'/></a> <a href="https://www.instagram.com/branimir_art/" target="_blank"><img src='./images/instagram-logo.svg' style='width:40px'/></a>
 
 > **📧 E-mail**
 
