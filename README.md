@@ -1,6 +1,5 @@
-# <center> H<span style='color:#84cc16'>i</span>, I'm <span style='color:#8b5cf6'>Branimir</span> Djordjevic</center>
-
-## <center>I am <span style='color:#14b8a6'>Frontend</span> web developer</center>
+<h1 align='center'>H<span style='color:#84cc16'>i</span>, I'm <span style='color:#8b5cf6'>Branimir</span> Djordjevic</h1>
+<h3 align='center'>I am <span style='color:#14b8a6'>Frontend</span> web developer</h3>
 
 <!-- New Version -->
 
@@ -18,11 +17,9 @@
 
 #### E-mail
 
-<img src="./icons/Gmail-Dark.svg" width="48">
-
 **branimir1111@gmail.com**
 
-# `Languages and Tools`
+# `Languages and Tools `
 
 <!-- JavaScript, TypeScript -->
 
@@ -57,8 +54,13 @@
 #### Additional tools
 
 <div id=badges>
-<img src="./icons/TailwindCSS-Dark.svg" width="48">
+<img src="./images/react-query.svg" width="48">
+<img src="./images/react-router.svg" width="48">
 <img src="./icons/Redux.svg" width="48">
+<img src="./icons/Vite-Dark.svg" width="48">
+<img src="./icons/TailwindCSS-Dark.svg" width="48">
+<img src="./images/daisyui.svg" width="48">
+<img src="./icons/StyledComponents.svg" width="48">
 <img src="./icons/Sass.svg" width="48">
 </div>
 
