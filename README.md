@@ -3,13 +3,10 @@
 <h1 align='center'>I am Branimir Djordjevic</h1>
 <h3 align='center'>Frontend web developer</h3>
 
-<!-- New Version -->
-
 # `How to reach me`
 
 #### Social Network Links
 
-<!-- New Version -->
 <div id='badges'>
 <a href="https://www.linkedin.com/in/branimirdjordjevic82/" target="_blank"><img src="./icons/LinkedIn.svg" width="48"></a>
 <a href="https://www.facebook.com/profile.php?id=100013754237181" target="_blank"><img src='./images/facebook-logo.svg' style='width:48px'/></a>
@@ -23,7 +20,7 @@
 
 # `Languages and Tools `
 
-<!-- JavaScript, TypeScript -->
+<!--HTML, CSS, JavaScript, TypeScript -->
 
 #### Languages
 
@@ -52,6 +49,8 @@
 <img src="./icons/ExpressJS-Dark.svg" width="48">
 <img src="./icons/MongoDB.svg" width="48">
 </div>
+
+<!-- Additional tools -->
 
 #### Additional tools
 
