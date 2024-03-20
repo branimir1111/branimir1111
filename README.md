@@ -6,7 +6,7 @@
 
 # `How to reach me`
 
-**Social Network Links**
+#### Social Network Links
 
 <!-- New Version -->
 <div id='badges'>
@@ -16,7 +16,7 @@
 <a href="https://twitter.com/branimir1111" target="_blank"><img src="./icons/Twitter.svg" width="48"></a>
 </div>
 
-**E-mail**
+#### E-mail
 
 <img src="./icons/Gmail-Dark.svg" width="48">
 
@@ -26,7 +26,7 @@
 
 <!-- JavaScript, TypeScript -->
 
-**Languages**
+#### Languages
 
 <div id='badges'>
 <img src="./icons/HTML.svg" width="48">
@@ -37,7 +37,7 @@
 
 <!--React, Next -->
 
-**Libraries and frameworks**
+#### Libraries and frameworks
 
 <div id='badges'>
 <img src="./icons/React-Dark.svg" width="48">
@@ -46,7 +46,7 @@
 
 <!-- Node, Express, MongoDB -->
 
-**Backend**
+#### Backend
 
 <div id='badges'>
 <img src="./icons/NodeJS-Dark.svg" width="48">
@@ -54,7 +54,7 @@
 <img src="./icons/MongoDB.svg" width="48">
 </div>
 
-**Additional tools**
+#### Additional tools
 
 <div id=badges>
 <img src="./icons/TailwindCSS-Dark.svg" width="48">
@@ -64,13 +64,13 @@
 
 <!-- Git -->
 
-**Version control system**
+#### Version control system
 
 <img src="./icons/Git.svg" width="48">
 
 <!-- Python, PyTorch -->
 
-**I’m currently learning**
+#### I’m currently learning
 
 <div id='badges'>
 <img src="./icons/Python-Dark.svg" width="48">
@@ -79,14 +79,9 @@
 
 <!-- ThreeJs, Blender -->
 
-**3D World**
+#### 3D World
 
 <div id='badges'>
 <img src="./icons/ThreeJS-Dark.svg" width="48">
 <img src="./icons/Blender-Dark.svg" width="48">
 </div>
-
-**Statistics**
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=branimir1111&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branimir1111&theme=tokyonight&utcOffset=8)
