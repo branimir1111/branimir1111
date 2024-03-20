@@ -1,5 +1,7 @@
-<h1 align='center'>H<span style='color:#84cc16'>i</span>, I'm <span style='color:#8b5cf6'>Branimir</span> Djordjevic</h1>
-<h3 align='center'>I am <span style='color:#14b8a6'>Frontend</span> web developer</h3>
+![Branimir Djordjevic](/images/mainBackground.png 'No limitation')
+
+<h1 align='center'>I am Branimir Djordjevic</h1>
+<h3 align='center'>Frontend web developer</h3>
 
 <!-- New Version -->
 
