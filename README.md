@@ -2,67 +2,91 @@
 
 ## <center>I am <span style='color:#14b8a6'>Frontend</span> web developer</center>
 
-<hr/>
-<h3 style='color:#c026d3'><ins>How to reach me</ins> <img src='./images/satellite-antenna.svg' style='width:30px'/></h3>
-<hr/>
+<!-- New Version -->
 
-> **🌐 Social Network Links**
+# `How to reach me`
 
-<a href="https://www.linkedin.com/in/branimirdjordjevic82/" target="_blank"><img src='./images/linkedin-logo.svg' style='width:40px'/></a> <a href="https://www.facebook.com/profile.php?id=100013754237181" target="_blank"><img src='./images/facebook-logo.svg' style='width:40px'/></a><a href="https://twitter.com/branimir1111" target="_blank"><img src='./images/X-logo.png' style='width:40px'/></a> <a href="https://www.instagram.com/branimir_art/" target="_blank"><img src='./images/instagram-logo.svg' style='width:40px'/></a>
+**Social Network Links**
 
-> **📧 E-mail**
+<!-- New Version -->
+<div id='badges'>
+<a href="https://www.linkedin.com/in/branimirdjordjevic82/" target="_blank"><img src="./icons/LinkedIn.svg" width="48"></a>
+<a href="https://www.facebook.com/profile.php?id=100013754237181" target="_blank"><img src='./images/facebook-logo.svg' style='width:48px'/></a>
+<a href="https://www.instagram.com/branimir_art/" target="_blank"><img src="./icons/Instagram.svg" width="48"></a>
+<a href="https://twitter.com/branimir1111" target="_blank"><img src="./icons/Twitter.svg" width="48"></a>
+</div>
+
+**E-mail**
+
+<img src="./icons/Gmail-Dark.svg" width="48">
 
 **branimir1111@gmail.com**
-</br>
 
-<hr/>
-<h3 style='color:#c026d3'><ins> Languages and Tools</ins> <img src='./images/tools-and-utensils-programmer.svg' style='width:30px'/></h3>
-<hr/>
-
-<!-- HTML, CSS, TailwindCSS, SASS -->
-
-> **Styling**
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+# `Languages and Tools`
 
 <!-- JavaScript, TypeScript -->
 
-> **Languages**
+**Languages**
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div id='badges'>
+<img src="./icons/HTML.svg" width="48">
+<img src="./icons/CSS.svg" width="48">
+<img src="./icons/JavaScript.svg" width="48">
+<img src="./icons/TypeScript.svg" width="48">
+</div>
 
 <!--React, Next -->
 
-> **Libraries and frameworks**
+**Libraries and frameworks**
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./images//next-js.png" alt="react" width="40"/> </a>
+<div id='badges'>
+<img src="./icons/React-Dark.svg" width="48">
+<img src="./icons/NextJS-Dark.svg" width="48">
+</div>
 
 <!-- Node, Express, MongoDB -->
 
-> **Backend**
+**Backend**
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./images/nodejs.png" alt="nodejs" width="50"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./images/expressjs.png" alt="express" width="60"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./images/MongoDB.png" alt="mongodb" width="80"/> </a>
+<div id='badges'>
+<img src="./icons/NodeJS-Dark.svg" width="48">
+<img src="./icons/ExpressJS-Dark.svg" width="48">
+<img src="./icons/MongoDB.svg" width="48">
+</div>
+
+**Additional tools**
+
+<div id=badges>
+<img src="./icons/TailwindCSS-Dark.svg" width="48">
+<img src="./icons/Redux.svg" width="48">
+<img src="./icons/Sass.svg" width="48">
+</div>
 
 <!-- Git -->
 
-> **Version control system**
+**Version control system**
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<img src="./icons/Git.svg" width="48">
 
 <!-- Python, PyTorch -->
 
-> **I’m currently learning**
+**I’m currently learning**
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<div id='badges'>
+<img src="./icons/Python-Dark.svg" width="48">
+<img src="./icons/PyTorch-Dark.svg" width="48">
+</div>
 
 <!-- ThreeJs, Blender -->
 
-> **3D World**
+**3D World**
 
-<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="./images/Threejs-logo.png" alt="three" width="40" height="40"/> </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+<div id='badges'>
+<img src="./icons/ThreeJS-Dark.svg" width="48">
+<img src="./icons/Blender-Dark.svg" width="48">
+</div>
 
-<!-- Most used languages -->
+**Statistics**
 
-> **Statistics**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=branimir1111&show_icons=true&locale=en&layout=compact" alt="branimir1111" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=branimir1111&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branimir1111&theme=tokyonight&utcOffset=8)
