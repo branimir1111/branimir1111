@@ -58,12 +58,9 @@
 <img src="./images/react-query.svg" width="48">
 <img src="./images/react-router.svg" width="48">
 <img src="./icons/Redux.svg" width="48">
-<img src="./icons/Vite-Dark.svg" width="48">
-<img src="./icons/Git.svg" width="48">
 <img src="./icons/TailwindCSS-Dark.svg" width="48">
-<img src="./images/daisyui.svg" width="48">
 <img src="./icons/StyledComponents.svg" width="48">
-<img src="./icons/Sass.svg" width="48">
+<img src="./icons/Git.svg" width="48">
 </div>
 
 <!-- Python, PyTorch -->
