@@ -29,9 +29,9 @@
 <img src="./icons/CSS.svg" width="48">
 <img src="./icons/JavaScript.svg" width="48">
 <img src="./icons/TypeScript.svg" width="48">
-  <img src="./icons/React-Dark.svg" width="48">
+<img src="./icons/React-Dark.svg" width="48">
 <img src="./icons/NextJS-Dark.svg" width="48">
-  <img src="./icons/NodeJS-Dark.svg" width="48">
+<img src="./icons/NodeJS-Dark.svg" width="48">
 <img src="./icons/ExpressJS-Dark.svg" width="48">
 <img src="./icons/MongoDB.svg" width="48">
 </div>
@@ -51,20 +51,13 @@
 <img src="./icons/Git.svg" width="48">
 </div>
 
-<!-- Python, PyTorch -->
+<!-- Python, PyTorch, ThreeJs, Blender -->
 
 #### I’m currently learning
 
 <div id='badges'>
 <img src="./icons/Python-Dark.svg" width="48">
 <img src="./icons/PyTorch-Dark.svg" width="48">
-</div>
-
-<!-- ThreeJs, Blender -->
-
-#### 3D World
-
-<div id='badges'>
 <img src="./icons/ThreeJS-Dark.svg" width="48">
 <img src="./icons/Blender-Dark.svg" width="48">
 </div>
