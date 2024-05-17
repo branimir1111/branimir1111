@@ -1,9 +1,9 @@
-![Branimir Djordjevic](/images/mainBackground.png 'No limitation')
+<!--![Branimir Djordjevic](/images/mainBackground.png 'No limitation')-->
 
-<h1 align='center'>I am Branimir Djordjevic</h1>
-<h3 align='center'>Frontend web developer</h3>
+<!--<h1 align='center'>I am Branimir Djordjevic</h1>-->
+<h1 align='center'>Frontend web developer</h3>
 
-# `How to reach me`
+## `How to reach me`
 
 #### Social Network Links
 
@@ -18,7 +18,7 @@
 
 **branimir1111@gmail.com**
 
-# `Languages and Tools `
+## `Languages and Tools `
 
 <!--HTML, CSS, JavaScript, TypeScript, React, Next, Node, Express, MongoDB -->
 
