@@ -14,9 +14,7 @@
 <a href="https://twitter.com/branimir1111" target="_blank"><img src="./icons/Twitter.svg" width="48"></a>
 </div>
 
-#### E-mail
-
-**branimir1111@gmail.com**
+#### E-mail: branimir1111@gmail.com
 
 ## `Languages and Tools `
 
