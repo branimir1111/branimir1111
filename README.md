@@ -3,7 +3,7 @@
 <!--<h1 align='center'>I am Branimir Djordjevic</h1>-->
 <h1 align='center'>Frontend web developer</h3>
 
-## `How to reach me`
+## `Contact`
 
 #### Social Network Links
 
