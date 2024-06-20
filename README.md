@@ -36,7 +36,7 @@
 
 
 
-<!-- Additional tools -->
+<!-- Additional tools 
 
 #### Additional tools
 
@@ -47,7 +47,7 @@
 <img src="./icons/TailwindCSS-Dark.svg" width="48">
 <img src="./icons/StyledComponents.svg" width="48">
 <img src="./icons/Git.svg" width="48">
-</div>
+</div> -->
 
 <!-- Python, PyTorch, ThreeJs, Blender -->
 
