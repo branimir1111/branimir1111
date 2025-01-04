@@ -1,7 +1,7 @@
 <!--![Branimir Djordjevic](/images/mainBackground.png 'No limitation')-->
 
 <!--<h1 align='center'>I am Branimir Djordjevic</h1>-->
-<h1 align='center'>Frontend web developer</h3>
+<h1 align='center'>Frontend Developer</h3>
 
 ## `Contact`
 
